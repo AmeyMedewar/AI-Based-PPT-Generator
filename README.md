@@ -116,3 +116,11 @@ This project is licensed under the MIT License.
 🌎 Multi-language support
 🎨 Custom Themes → Brand-specific designs
 
+<img width="1920" height="1200" alt="Screenshot (95)" src="https://github.com/user-attachments/assets/a60252e5-9b3b-4871-a566-ae215b17fcc4" />
+
+<img width="1920" height="1200" alt="Screenshot (96)" src="https://github.com/user-attachments/assets/0308fcd6-dc7c-42f2-b476-6602a55978c1" />
+
+<img width="1920" height="1200" alt="Screenshot (97)" src="https://github.com/user-attachments/assets/6b215ea1-7fb0-4ebf-9118-7c5649b5d375" />
+
+
+
